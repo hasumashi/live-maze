@@ -1,0 +1,20 @@
+{
+  "name": "live-maze",
+  "version": "1.0.0",
+  "description": "Online maze solving multiplayer game",
+  "keywords": ["game", "webgame", "online", "multiplayer", "maze"],
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasumashi/live-maze.git"
+  },
+  "author": "Marek Ciążyński, Paweł Kubiak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hasumashi/live-maze/issues"
+  },
+  "homepage": "https://github.com/hasumashi/live-maze#readme"
+}
